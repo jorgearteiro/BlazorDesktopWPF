@@ -12,10 +12,10 @@
 
   <ItemGroup>
     <Content Update="wwwroot\app.css">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>True</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\index.html">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>True</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
 
